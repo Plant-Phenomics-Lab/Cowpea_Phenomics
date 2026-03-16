@@ -7,7 +7,6 @@ Submitted to *The Plant Phenome Journal*
 
 ## Contents
 - `data/` — study dataset
-- `metadata/` — variable descriptions and supporting information
 
 ## License
 This dataset is licensed under **CC BY 4.0**.
